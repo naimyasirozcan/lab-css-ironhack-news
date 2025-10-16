@@ -1,5 +1,3 @@
-I tried my best.
-
 Screenshots:
 
 ![alt text](image.png)
